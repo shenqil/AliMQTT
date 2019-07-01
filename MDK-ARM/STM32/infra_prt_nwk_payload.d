@@ -1,0 +1,10 @@
+stm32\infra_prt_nwk_payload.o: ..\MQTT\infra\infra_prt_nwk_payload.c
+stm32\infra_prt_nwk_payload.o: ..\MQTT\infra\infra_config.h
+stm32\infra_prt_nwk_payload.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+stm32\infra_prt_nwk_payload.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+stm32\infra_prt_nwk_payload.o: ..\MQTT\infra\infra_log.h
+stm32\infra_prt_nwk_payload.o: ..\MQTT\infra\infra_defs.h
+stm32\infra_prt_nwk_payload.o: ..\MQTT\infra\infra_types.h
+stm32\infra_prt_nwk_payload.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+stm32\infra_prt_nwk_payload.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+stm32\infra_prt_nwk_payload.o: ..\MQTT\infra\infra_cjson.h

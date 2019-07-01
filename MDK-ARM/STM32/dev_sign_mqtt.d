@@ -1,0 +1,15 @@
+stm32\dev_sign_mqtt.o: ..\MQTT\dev_sign\dev_sign_mqtt.c
+stm32\dev_sign_mqtt.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+stm32\dev_sign_mqtt.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+stm32\dev_sign_mqtt.o: ..\MQTT\infra\infra_defs.h
+stm32\dev_sign_mqtt.o: ..\MQTT\infra\infra_types.h
+stm32\dev_sign_mqtt.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+stm32\dev_sign_mqtt.o: ..\MQTT\infra\infra_config.h
+stm32\dev_sign_mqtt.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+stm32\dev_sign_mqtt.o: ..\MQTT\infra\infra_sha256.h
+stm32\dev_sign_mqtt.o: ..\MQTT\dev_sign\dev_sign_api.h
+stm32\dev_sign_mqtt.o: ..\MQTT\dev_sign\dev_sign_internal.h
+stm32\dev_sign_mqtt.o: ..\MQTT\dev_sign\dev_sign_config.h
+stm32\dev_sign_mqtt.o: ..\MQTT\dev_sign\dev_sign_api.h
+stm32\dev_sign_mqtt.o: ..\MQTT\dev_sign\dev_sign_wrapper.h
+stm32\dev_sign_mqtt.o: ..\MQTT\dev_sign\dev_sign_wrapper.h

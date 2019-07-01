@@ -1,0 +1,12 @@
+stm32\cjson.o: ..\MQTT\wrappers\external_libs\cJSON.c
+stm32\cjson.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+stm32\cjson.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+stm32\cjson.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+stm32\cjson.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+stm32\cjson.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+stm32\cjson.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\float.h
+stm32\cjson.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+stm32\cjson.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+stm32\cjson.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\locale.h
+stm32\cjson.o: ..\MQTT\wrappers\external_libs\cJSON.h
+stm32\cjson.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h

@@ -1,0 +1,13 @@
+stm32\infra_cjson.o: ..\MQTT\infra\infra_cjson.c
+stm32\infra_cjson.o: ..\MQTT\infra\infra_config.h
+stm32\infra_cjson.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+stm32\infra_cjson.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+stm32\infra_cjson.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+stm32\infra_cjson.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+stm32\infra_cjson.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+stm32\infra_cjson.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\float.h
+stm32\infra_cjson.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+stm32\infra_cjson.o: ..\MQTT\infra\infra_cjson.h
+stm32\infra_cjson.o: ..\MQTT\infra\infra_types.h
+stm32\infra_cjson.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+stm32\infra_cjson.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h

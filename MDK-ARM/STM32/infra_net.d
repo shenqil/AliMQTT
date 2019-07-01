@@ -1,0 +1,12 @@
+stm32\infra_net.o: ..\MQTT\infra\infra_net.c
+stm32\infra_net.o: ..\MQTT\infra\infra_config.h
+stm32\infra_net.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+stm32\infra_net.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+stm32\infra_net.o: ..\MQTT\infra\infra_defs.h
+stm32\infra_net.o: ..\MQTT\infra\infra_types.h
+stm32\infra_net.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+stm32\infra_net.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+stm32\infra_net.o: ..\MQTT\infra\infra_net.h
+stm32\infra_net.o: ..\MQTT\wrappers\wrappers_defs.h
+stm32\infra_net.o: ..\MQTT\infra\infra_log.h
+stm32\infra_net.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
